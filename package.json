@@ -1,8 +1,0 @@
-{
-  "name": "yunzhutong-v2",
-  "version": "2.0.0",
-  "scripts": {
-    "build": "echo 'No build needed'"
-  },
-  "dependencies": {}
-}
