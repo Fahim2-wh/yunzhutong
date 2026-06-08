@@ -2,7 +2,11 @@
   "name": "yunzhutong-v4-gold",
   "version": "4.0.0",
   "scripts": {
-    "build": "echo 'No build needed'"
+    "build": "echo 'No build needed'",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
   },
-  "dependencies": {}
+  "devDependencies": {
+    "wrangler": "^4.98.0"
+  }
 }
