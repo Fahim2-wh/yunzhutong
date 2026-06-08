@@ -1,6 +1,8 @@
 {
+  "name": "yunzhutong",
+  "version": "1.0.0",
   "scripts": {
-    "start": "vercel dev"
+    "build": "echo 'No build needed'"
   },
   "dependencies": {}
 }
