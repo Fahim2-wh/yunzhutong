@@ -1,0 +1,8 @@
+{
+  "name": "yunzhutong-v4-gold",
+  "version": "4.0.0",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {}
+}
